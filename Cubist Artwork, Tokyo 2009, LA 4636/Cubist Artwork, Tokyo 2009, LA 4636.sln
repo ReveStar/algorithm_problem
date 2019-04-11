@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cubist Artwork, Tokyo 2009, LA 4636", "Cubist Artwork, Tokyo 2009, LA 4636\Cubist Artwork, Tokyo 2009, LA 4636.vcxproj", "{CD180440-1FE5-49C5-BE62-8BAB6C183063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Debug|x64.ActiveCfg = Debug|x64
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Debug|x64.Build.0 = Debug|x64
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Debug|x86.Build.0 = Debug|Win32
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Release|x64.ActiveCfg = Release|x64
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Release|x64.Build.0 = Release|x64
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Release|x86.ActiveCfg = Release|Win32
+		{CD180440-1FE5-49C5-BE62-8BAB6C183063}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EC699C-BF75-415C-B219-EF780E6D0833}
+	EndGlobalSection
+EndGlobal

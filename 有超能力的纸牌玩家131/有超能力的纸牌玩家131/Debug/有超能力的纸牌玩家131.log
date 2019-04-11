@@ -1,0 +1,5 @@
+﻿  有超能力的纸牌玩家131.cpp
+d:\project\algrim\有超能力的纸牌玩家131\有超能力的纸牌玩家131\有超能力的纸牌玩家131.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\algrim\有超能力的纸牌玩家131\有超能力的纸牌玩家131\有超能力的纸牌玩家131.cpp(77): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  有超能力的纸牌玩家131.vcxproj -> D:\Project\algrim\有超能力的纸牌玩家131\Debug\有超能力的纸牌玩家131.exe
+  有超能力的纸牌玩家131.vcxproj -> D:\Project\algrim\有超能力的纸牌玩家131\Debug\有超能力的纸牌玩家131.pdb (Partial PDB)

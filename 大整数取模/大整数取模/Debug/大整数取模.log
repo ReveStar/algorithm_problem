@@ -1,0 +1,6 @@
+﻿  大整数取模.cpp
+d:\project\algrim\大整数取模\大整数取模\大整数取模.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\algrim\大整数取模\大整数取模\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\project\algrim\大整数取模\大整数取模\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  大整数取模.vcxproj -> D:\Project\algrim\大整数取模\Debug\大整数取模.exe
+  大整数取模.vcxproj -> D:\Project\algrim\大整数取模\Debug\大整数取模.pdb (Partial PDB)
