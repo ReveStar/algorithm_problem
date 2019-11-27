@@ -1,0 +1,4 @@
+﻿  数字金字塔.cpp
+D:\Project\algorithm\数字金字塔\数字金字塔.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\algorithm\数字金字塔\数字金字塔.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+  数字金字塔.vcxproj -> D:\Project\algorithm\数字金字塔\Debug\数字金字塔.exe

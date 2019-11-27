@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最小矩形面积", "最小矩形面积.vcxproj", "{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Debug|x64.ActiveCfg = Debug|x64
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Debug|x64.Build.0 = Debug|x64
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Debug|x86.Build.0 = Debug|Win32
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Release|x64.ActiveCfg = Release|x64
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Release|x64.Build.0 = Release|x64
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Release|x86.ActiveCfg = Release|Win32
+		{A96ECD0B-659E-4D57-9ED3-DA79571F35EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23062389-F33B-4AF0-9FE1-A46B78B4BDEF}
+	EndGlobalSection
+EndGlobal

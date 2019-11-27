@@ -1,0 +1,5 @@
+﻿  蛙过河.cpp
+D:\Project\algorithm\蛙过河\蛙过河.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\algorithm\蛙过河\蛙过河.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+D:\Project\algorithm\蛙过河\蛙过河.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+  蛙过河.vcxproj -> D:\Project\algorithm\蛙过河\Debug\蛙过河.exe
